@@ -1,0 +1,35 @@
+
+a{
+	text-decoration: none;
+}
+A:link{
+	color: red;
+}
+A:visited{
+	color: red;
+	background-color: purple;
+}
+A:hover{
+	color: blue;
+	background-color: blue;
+}
+A:active{
+	color: YELLOW;
+	BACKGROUND-COLOR: BLACK;
+}
+table{
+	border-bottom-color: blue;
+	border-left-color: yellow;
+	border-right-color: blue;
+	border-top-color: yellow;
+}
+BUTTON{
+	BACKGROUND-COLOR: yellow;
+	COLOR: blue;
+	border-radius: 15px;
+}
+button:hover{
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+}

@@ -33,3 +33,6 @@ button:hover{
 	color: white;
 	border-radius: 10px;
 }
+div{
+text-shadow: 6px 6px 4px yellow;	
+}
